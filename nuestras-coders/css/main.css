@@ -1,0 +1,84 @@
+h1 {
+  font-family: "Roboto Slab", serif;
+}
+
+hr {
+  background-color: #000000;
+  border: none;
+  color: #000000;
+  height: 3px;
+  left: 2px;
+  margin-left: 2px;
+  width: 45px;
+}
+
+contairner1 {
+  display: block;
+}
+
+container2 {
+  display: block;
+}
+
+span {
+  bottom: 8px;
+  color: white;
+  font-family: "Roboto Slab", serif;
+  font-size: 10px;
+  position: absolute;
+  right: 7px;
+}
+
+.first-student {
+  background-size: 119px 114px;
+  display: inline-block;
+  height: 114px;
+  margin: 11px;
+  position: relative;
+  width: 119px;
+}
+
+.second-student {
+  background-size: 119px 114px;
+  display: inline-block;
+  height: 114px;
+  margin: 11px;
+  position: relative;
+  width: 119px;
+}
+
+.third-student {
+  background-size: 119px 114px;
+  display: inline-block;
+  height: 114px;
+  margin: 11px;
+  position: relative;
+  width: 119px;
+}
+
+.fourth-student {
+  background-size: 119px 114px;
+  display: inline-block;
+  height: 114px;
+  margin: 11px;
+  position: relative;
+  width: 119px;
+}
+
+.fifth-student {
+  background-size: 119px 114px;
+  display: inline-block;
+  height: 114px;
+  margin: 11px;
+  position: relative;
+  width: 119px;
+}
+
+.sixth-student {
+  background-size: 119px 114px;
+  display: inline-block;
+  height: 114px;
+  margin: 11px;
+  position: relative;
+  width: 119px;
+}
